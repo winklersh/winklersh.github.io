@@ -3,51 +3,72 @@
   <head>
     <meta charset="utf-8">
     <title>Arizona Fleet 42</title>
+    <meta name = "description" content = "Arizona Multihull Fleet 42 is an Arizona beach catamaran sailing club." />
     <style>
-	div.fixedwidth {
-		font-family: Arial, Helvetica, sans-serif ;
-		font-size: 1.1em ;
-		width: 950px ;
-		margin-left: auto ;
-		margin-right: auto ;
-		padding: 10px ;
-		background-color: white ;
-		color: black ;
-		border: 1px solid black ;
-	}
+    div.fixedwidth {
+        font-family: Arial, Helvetica, sans-serif ;
+        font-size: 1.1em ;
+        width: 950px ;
+        margin-left: auto ;
+        margin-right: auto ;
+        padding: 10px ;
+        background-color: white ;
+        color: black ;
+        border: 1px solid black ;
+    }
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
     </style>
   </head>
   <body>
       <div class="fixedwidth">
-	  <div id="header">
-		  <div id="masthead">
-			  <div id="branding" role="banner">
-				  <h1 id="site-title" class="site-title">Arizona Multihull Fleet 42 </h1>
-				  <div id="topwidget" style="display: none;">
-					  <form role="search" method="get" id="searchform" class="searchform" action="https://fleet42.org/">
-						  <div>
-							  <label class="screen-reader-text" for="s">Search for:</label>
-							  <input type="text" value="" name="s" id="s" />
-							  <input type="submit" id="searchsubmit" value="Search" />
-						  </div>
-					  </form>                         </div>
+      <h1 id="site-title" class="site-title">Arizona Multihull Fleet 42</h1>
 
-					  <br class="clear">
-					  <div id="header-image">
-						  <img src="Fleet42-Roosevelt.jpg" alt="Fleet 42 Vintage Image">
-						  <div style="color: #fff; " id="site-description">Catamaran sailing at its BEST!</div>
-					  </div>
-			  </div><!-- #branding -->
-	  </div><!-- #masthead -->
-	  </div><!-- #header -->
+      <div class="container">
+        <img src="Fleet42-Roosevelt.jpg" alt="Historic Fleet 42 catamaran club image" style="width:100%;">
+        <div class="bottom-right">Fleet 42 circa 1980s</div>
+      </div>
 
 
-		<h1>2022 Calendar</h1>
-	  <pre><code>
+        <h2>2022 Sailing Calendar</h2>
+      <pre>
   Date        Event                 Location            Organizing group
   -------------------------------------------------------------------------
-  Jan 16      Year Start Party      S Dawson's home     Fleet 42
-  Feb 05-06   Bartlett or Roosevelt Bartlett/Roosevelt  Fleet 42
+  Feb 05-06   Bartlett              Bartlett            Fleet 42
   Feb 18-20   Leukemia Cup          Lake Pleasant       Arizona Yacht Club
   Mar 19-20   Roosevelt Sail        Roosevelt           Fleet 42
   Apr 08-10   Roosevelt Sail        Roosevelt           Fleet 42
@@ -57,21 +78,18 @@
   Sep 24-25   Roosevelt Sail        Roosevelt           Fleet 42
   Oct 07-09   Pinata Regata         Rocky Point, MX     Fleet 514
   Oct 29-30   San Carlos Regatta    San Carlos, MX      Tucson Sailing Club
-  Nov TBD     Governer's Cup        Lake Pleasant       Arizona Yacht Club
-	  </code></pre>
-	  
-<pre>  For event details see: <a href="https://www.facebook.com/groups/Fleet42">Fleet 42 Facebook page</a></pre>
+  Nov TBD     Governer's Cup        Lake Pleasant       Arizona Yacht Club <!--/code --></pre>
+      
+<pre>  To contact members or for event details see: <a href="https://www.facebook.com/groups/Fleet42">Fleet 42 Facebook page</a></pre>
 
-		<h1>About</h1>
+        <h2>About</h2>
     <pre><strong>  Arizona Multihull Fleet 42</strong> is an Arizona beach catamaran sailing club.
-  We're an open fleet, home to all makes and sizes of beach catamarans. From A-Cats
-  to Tornados and all the cats in between you are welcome in our fleet!</pre>
-    <pre>  G-Cats, Formula16/18, Hobies, Mysteres, Nacras, Sol Cats, SuperCats and Tornados
-  (to name a few) are some of the classic catamarans and modern high-speed
+  We're an open fleet, home to all makes of beach catamarans.  A-Cats, 
+  G-Cats, Formula 16/18, Hobies, Mysteres, Nacras, Sol Cats, SuperCats 
+  and Tornados are some of the classic catamarans and modern high-speed 
   spinnaker catamarans you will find in our fleet.</pre>
-    <pre>  You can contact club members and learn details about events at <a href="https://www.facebook.com/groups/Fleet42">Fleet 42 Facebook page</a></pre>
 
-<pre>  Last updated: <time datetime="2021-12-31">05 January 2022</time></pre>
-	  </div><!-- #header -->
+<pre>  Last updated: <time datetime="2021-01-22">30 January 2022</time></pre>
+      </div><!-- #fixedwidth -->
   </body>
 </html>
