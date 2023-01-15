@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
 DTSTART:20230217
-DTEND:20230221
+DTEND:20230220
 SUMMARY:F42 at AYC Leukemia Cup
 DESCRIPTION:F42 participates in the Arizona Yacht Club’s Leukemia Cup Regatta
 LOCATION:https://goo.gl/maps/Y6QmjdzRAug8q9Rf9
