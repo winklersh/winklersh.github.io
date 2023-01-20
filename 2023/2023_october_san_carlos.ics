@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20231027
+DTEND:20231031
+SUMMARY:F42 at TSC San Carlos Fall Regatta
+DESCRIPTION:F42 participates in the Tucson Sailing Club’s fall San Carlos regatta\n\nIn San Carlos, Mexico.\n\nSee Facebook event for details.  https://www.facebook.com/groups/Fleet42/events\n
+LOCATION:https://goo.gl/maps/UjpNCtdUF4dVE8rt8
+END:VEVENT
+END:VCALENDAR
