@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20240322
+DTEND:20240325
+SUMMARY:F42 Spring Fever Sail (Roosevelt)
+DESCRIPTION:Fleet 42 Roosevelt Lake Sail at Windy Hill location. \n\nCheck the Fleet42 Facebook event for latest details: \nhttps://www.facebook.com/groups/Fleet42/events
+LOCATION:
+https://maps.app.goo.gl/SyM2Dnxo5N1kUUYg9
+END:VEVENT
+END:VCALENDAR

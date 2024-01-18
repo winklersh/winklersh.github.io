@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20240927
+DTEND:20240930
+SUMMARY:F42 Fall Fever Sail! (Roosevelt)
+DESCRIPTION:Fleet 42 Roosevelt Lake Sail at Horse Pasture or Windy Hill location. \n\nCheck the Fleet42 Facebook event for latest details: \nhttps://www.facebook.com/groups/Fleet42/events
+LOCATION:https://goo.gl/maps/NNYaP6ZXyJ4JzuRV6
+END:VEVENT
+END:VCALENDAR

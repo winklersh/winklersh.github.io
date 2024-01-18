@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20240720
+DTEND:20240720
+SUMMARY:F42 Full Moon Sail! (Lake Pleasant)
+DESCRIPTION:Fleet 42 Full Moon Sail at Lake Pleasant. \n\nCheck the Fleet42 Facebook event for latest details: \nhttps://www.facebook.com/groups/Fleet42/events
+LOCATION:https://maps.app.goo.gl/7WzKyCEhJcrFG9LW6
+END:VEVENT
+END:VCALENDAR

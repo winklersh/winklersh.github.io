@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20240503
+DTEND:20240506
+SUMMARY:F42 at F66 Cinco de Mayo
+DESCRIPTION:F42 participates in F66 Cinco de Mayo Regatta\n\nAt Playa Bonita RV park in Puerto Penasco, Mexico\nSee Facebook event for details.  https://www.facebook.com/groups/Fleet42/events
+LOCATION:https://goo.gl/maps/Me4qFwv7N7ZX74yU9
+END:VEVENT
+END:VCALENDAR
